@@ -35,8 +35,8 @@ The system is built using a modern distributed architecture:
 
 This system is composed of multiple repositories:
 
-* 🔗 Backend API → SICRY API
-* 🔗 Desktop Application → SICRY MAUI Client
+* 🔗 [Backend API → SICRY API](https://github.com/Beelzemon97/SICRY-Api)
+* 🔗 [Desktop Application → SICRY MAUI Client](https://github.com/Beelzemon97/SICRYDESKTOP/tree/master)
 
 ---
 
@@ -63,12 +63,6 @@ This system is composed of multiple repositories:
 ## 🧠 Purpose
 
 SICRY was built to replace manual maintenance workflows with a centralized digital platform, improving efficiency, traceability, and operational control in industrial environments.
-
----
-
-## 📸 Screenshots
-
-*(Add system screenshots here for better presentation)*
 
 ---
 
